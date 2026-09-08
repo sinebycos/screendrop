@@ -1,0 +1,24 @@
+{
+  "originHash" : "263efd6589c2aac20bf6bfe6e752ea93016adabb4429f21343333f399a0e3ac1",
+  "pins" : [
+    {
+      "identity" : "dockprogress",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/DockProgress",
+      "state" : {
+        "revision" : "43ca0137201a479fbd891b129155f4a84c1e1b13",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "sparkle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sparkle-project/Sparkle.git",
+      "state" : {
+        "revision" : "066e75a8b3e99962685d6a90cdd5293ebffd9261",
+        "version" : "2.9.1"
+      }
+    }
+  ],
+  "version" : 3
+}
